@@ -1,0 +1,20 @@
+:root {
+    --spotify-green: #1DB954;
+    --footer-height: 40px;
+}
+
+html, body, * {
+    -webkit-app-region: drag;
+    -webkit-user-select: none;
+    cursor: default;
+}
+
+body {
+    box-sizing: border-box;
+    margin: 0;
+    overflow-x: hidden;
+    font-family: "Gotham SSm A", "Gotham SSm B", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    max-height: 100vh;
+    height: 100vh;
+    overflow-y: hidden;
+}
