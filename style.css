@@ -21,7 +21,7 @@ body {
 
 .home {
     background-color: red;
-    mask:url(icon/About.svg) no-repeat center;
+    mask:url(./icon/About.svg) no-repeat center;
 }
 
 .left {
@@ -36,4 +36,10 @@ body {
     padding: 20px;
     display: flex;
     flex-direction: column;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    position: relative;
 }
