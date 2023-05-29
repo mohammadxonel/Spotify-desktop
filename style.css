@@ -48,3 +48,24 @@ body {
     filter: invert(0.5) sepia(70) saturate(0) hue-rotate(0deg);
 }
 
+.menu ul {
+    width: 100%;
+}
+
+.menu ul li img {
+    width: 24px;
+}
+.menu ul li {
+   padding: 5px;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: gray;
+}
+.menu ul *  { 
+    cursor: pointer;
+}
+
+
+
