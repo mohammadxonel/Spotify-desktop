@@ -18,3 +18,8 @@ body {
     height: 100vh;
     overflow-y: hidden;
 }
+
+.home {
+    background-color: red;
+    mask:url(icon/About.svg) no-repeat center;
+}
