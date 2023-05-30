@@ -67,5 +67,9 @@ body {
     cursor: pointer;
 }
 
-
+.menu ul li a span {
+    position: relative;
+    top: -5px;
+    left: 8px
+}
 
