@@ -76,3 +76,9 @@ body {
 .menu ul li:first-child() a img {
     filter: invert(0.5) sepia(0) saturate(89) hue-rotate(75deg) !important;
 }
+
+.menu li:first-child span {
+    color:white !important;
+}
+
+
