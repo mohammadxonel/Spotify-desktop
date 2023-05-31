@@ -87,3 +87,7 @@ body {
     padding: 0;
     overflow: hidden;
 }
+
+.menu li {
+    padding-left: 0 !important;
+}
