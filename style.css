@@ -91,3 +91,7 @@ body {
 .menu li {
     padding-left: 0 !important;
 }
+
+.playlists {
+    font-weight: 400 !important;
+}
