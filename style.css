@@ -95,3 +95,7 @@ body {
 .playlists {
     font-weight: 400 !important;
 }
+
+.playlists ul li a span {
+    left: 0px;
+}
