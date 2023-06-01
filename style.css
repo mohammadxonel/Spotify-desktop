@@ -106,3 +106,9 @@ body {
     bottom: 40px;
     left: 0;
 }
+
+.container {
+    display: flex;
+    flex-direction: row;
+    height: calc(100vh - var(--footer-height)) !important;
+}
