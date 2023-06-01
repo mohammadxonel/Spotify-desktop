@@ -112,3 +112,7 @@ body {
     flex-direction: row;
     height: calc(100vh - var(--footer-height)) !important;
 }
+
+.right {
+    width: 100%;
+}
