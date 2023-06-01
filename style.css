@@ -142,3 +142,7 @@ body {
     align-items: center;
 }
 
+.playlist-header {
+    padding: 20px;
+}
+
