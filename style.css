@@ -125,9 +125,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-}´
+}
 
 .playlist-arrows  {
     display: flex;
     align-items: center;
+}
+
+.arrow-container {
+    margin-right: 15px !important;
 }
