@@ -99,3 +99,10 @@ body {
 .playlists ul li a span {
     left: 0px;
 }
+
+.current-song-cover img {
+    position: absolute;
+    width: 100%;
+    bottom: 40px;
+    left: 0;
+}
