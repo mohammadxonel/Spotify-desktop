@@ -125,4 +125,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+}´
+
+.playlist-arrows  {
+    display: flex;
+    align-items: center;
 }
