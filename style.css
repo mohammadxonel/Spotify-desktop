@@ -201,3 +201,11 @@ body {
     margin-top: 10px;
     font-family: "AvenirLTStd-Black";
 }
+
+.playlist-description {
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 20px;
+    color:#B5B5B5;
+}
+
