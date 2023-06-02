@@ -242,3 +242,14 @@ body {
 .playlist-buttons-like {
     margin-left: 20px;
 }
+
+.playlist-songs-container {
+    height: 1000px;
+    padding: 20px;
+    background: rgb(95,95,95);
+    background: linear-gradient(180deg, rgba(95,95,95,1) 0%, rgba(18,18,18,1) 22%, rgba(18,18,18,1) 100%);
+}
+
+.playlist-buttons-download, .playlist-buttons-three-dot {
+    margin-left: 20px;
+}
