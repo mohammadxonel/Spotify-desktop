@@ -218,3 +218,9 @@ body {
     font-weight: 1000;
     font-family: "AvenirLTStd-Black";
 }
+
+.playlist-buttons-left, .playlist-buttons-right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
