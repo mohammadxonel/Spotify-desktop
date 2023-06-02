@@ -193,3 +193,11 @@ body {
     font-weight: 600;
     font-family: "AvenirLTStd-Black";
 }
+
+.playlist-title {
+    font-size: 86px;
+    font-weight: 1000;
+
+    margin-top: 10px;
+    font-family: "AvenirLTStd-Black";
+}
