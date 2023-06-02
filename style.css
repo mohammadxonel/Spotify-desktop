@@ -181,7 +181,7 @@ body {
     -moz-box-shadow: 0px 2px 35px -1px rgba(0,0,0,0.45);
     -webkit-box-shadow: 0px 2px 35px -1px rgba(0,0,0,0.45);
     box-shadow: 0px 2px 35px -1px rgba(0,0,0,0.45);
-}^
+}
 
 .playlist-info {
     color:white;
@@ -209,3 +209,12 @@ body {
     color:#B5B5B5;
 }
 
+.playlist-stats  img{
+    position: relative;
+    top: 6px;
+}
+
+.playlist-stats span:first-of-type {
+    font-weight: 1000;
+    font-family: "AvenirLTStd-Black";
+}
