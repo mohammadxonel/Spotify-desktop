@@ -235,3 +235,10 @@ body {
     align-items: center;
 }
 
+.playlist-buttons-like svg path{
+    fill: var(--spotify-green) ;
+}
+
+.playlist-buttons-like {
+    margin-left: 20px;
+}
