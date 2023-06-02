@@ -154,3 +154,8 @@ body {
     color:white;
 }
 
+.playlist-header .arrow-container {
+    background-color: #535353;
+    margin: 2px;
+}
+
