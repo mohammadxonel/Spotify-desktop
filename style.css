@@ -159,3 +159,14 @@ body {
     margin: 2px;
 }
 
+.playlist-top-email span {
+    padding: 0 10px;
+}
+
+.playlist-header {
+    background: rgb(255,255,255);
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(119,119,119,1) 100%);
+}
+
+
+
