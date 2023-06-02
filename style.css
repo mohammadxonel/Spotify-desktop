@@ -187,3 +187,9 @@ body {
     color:white;
     padding-left: 20px;
 }
+
+.playlist-public {
+    font-size: 12px;
+    font-weight: 600;
+    font-family: "AvenirLTStd-Black";
+}
