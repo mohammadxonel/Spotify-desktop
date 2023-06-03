@@ -304,3 +304,12 @@ body {
 .playlist-songs table tr th:first-child{
     width: 2%;
 }
+
+.playlist-songs table tr th:nth-child(2) {
+    width: 40%;
+}
+
+.song-image img {
+    width: 34px;
+    height: 34px;
+}
