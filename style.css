@@ -253,3 +253,8 @@ body {
 .playlist-buttons-download, .playlist-buttons-three-dot {
     margin-left: 20px;
 }
+
+.playlist-buttons-download svg path, .playlist-buttons-three-dot svg path, .playlist-buttons-search svg path {
+    fill: #CACACA;
+}
+
