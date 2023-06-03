@@ -274,3 +274,8 @@ body {
 .playlist-songs {
     margin-top: 20px;
 }
+
+.playlist-songs table {
+    border-collapse: collapse;
+    width: 100%;
+}
