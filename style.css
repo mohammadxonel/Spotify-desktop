@@ -417,3 +417,19 @@ body {
     display: flex;
     align-items: center;
 }
+
+.player-time {
+    padding: 0 10px;
+}
+
+.footer-player-right-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 30px;
+}
+
+.footer-player-right-buttons img {
+    margin-right: 20px;
+    width: 16px;
+}
