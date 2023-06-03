@@ -319,3 +319,8 @@ body {
     align-items: center;
     flex-direction: row;
 }
+
+.song-name-album {
+    padding-left: 15px;
+    letter-spacing: 0.5px;
+}
