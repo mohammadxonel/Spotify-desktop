@@ -378,3 +378,14 @@ body {
     display: flex;
     justify-content: center;
 }
+
+.pause-button {
+    position: relative;
+    display: inline-block;
+    width: 36px !important;
+    height: 36px !important;
+    background-color: var(--spotify-green) !important;
+    border-radius: 50%;
+    margin: 0 8px;
+    top:4px;
+}
