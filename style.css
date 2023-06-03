@@ -348,3 +348,10 @@ body {
     width: 100%;
     height: var(--footer-height);
 }
+
+.footer-player-left-like svg path {
+    fill: var(--spotify-green);
+}
+.footer-player-left-like {
+    padding-left: 30px;
+}
