@@ -352,6 +352,12 @@ body {
 .footer-player-left-like svg path {
     fill: var(--spotify-green);
 }
+
 .footer-player-left-like {
     padding-left: 30px;
+}
+
+.footer-player-left {
+    display: flex;
+    align-items: center;
 }
