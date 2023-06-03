@@ -324,3 +324,9 @@ body {
     padding-left: 15px;
     letter-spacing: 0.5px;
 }
+
+.song-name, .footer-player-left-song-name {
+    font-weight: 400;
+    font-size:14px;
+    color: white;
+}
