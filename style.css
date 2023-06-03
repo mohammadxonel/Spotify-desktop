@@ -279,3 +279,16 @@ body {
     border-collapse: collapse;
     width: 100%;
 }
+
+.playlist-songs table tr td, .playlist-songs table tr th {
+    padding: 10px;
+    color: #CACACA;
+}
+
+.playlist-songs table tr th {
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 200;
+    letter-spacing: 2px;
+}
