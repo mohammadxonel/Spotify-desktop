@@ -389,3 +389,13 @@ body {
     margin: 0 8px;
     top:4px;
 }
+
+.pause-button img {
+    position: relative;
+    max-width: 24px !important;
+    max-height: 24px !important;
+
+    filter:none !important;
+    left: -4px;
+    top:-4px;
+}
