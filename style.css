@@ -292,3 +292,15 @@ body {
     font-weight: 200;
     letter-spacing: 2px;
 }
+
+.playlist-songs table tr:first-of-type {
+    border-bottom: 1px solid #CACACA;
+}
+
+.playlist-songs table th {
+    text-align: left;
+}
+
+.playlist-songs table tr th:first-child{
+    width: 2%;
+}
