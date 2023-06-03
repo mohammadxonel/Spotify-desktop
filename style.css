@@ -266,3 +266,11 @@ body {
 .playlist-buttons-order {
     color:#CACACA;
 }
+
+.playlist-buttons-order {
+    padding-left: 20px;
+}
+
+.playlist-songs {
+    margin-top: 20px;
+}
