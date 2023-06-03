@@ -330,3 +330,21 @@ body {
     font-size:14px;
     color: white;
 }
+
+.song-artist, .song-album, .song-date-added, .footer-player-left-song-artist, .player-time, .song-duration {
+    font-size: 12px;
+    margin-top: 6px;
+    color: #898989 !important;
+}
+
+.footer-player  {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #181818;
+    position: absolute;
+    bottom:0;
+    width: 100%;
+    height: var(--footer-height);
+}
