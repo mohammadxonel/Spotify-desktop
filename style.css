@@ -258,3 +258,7 @@ body {
     fill: #CACACA;
 }
 
+.playlist-buttons {
+    display: flex;
+    justify-content: space-between;
+}
