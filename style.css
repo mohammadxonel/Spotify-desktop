@@ -61,7 +61,7 @@ body {
 
 .menu ul li a {
     text-decoration: none;
-    color: gray;
+    color: rgb(128, 128, 128);
 }
 .menu ul *  { 
     cursor: pointer;
@@ -121,7 +121,7 @@ body {
     border-radius: 50%;
     width: 40px;
     height: 40px;
-    background-color: #434343;
+    background-color: #1e4e7e;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -164,8 +164,8 @@ body {
 }
 
 .playlist-header {
-    background: rgb(255,255,255);
-    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(119,119,119,1) 100%);
+    background: rgb(147, 169, 209);
+    background: linear-gradient(180deg, rgb(29, 79, 145) 0%, rgb(222, 223, 215) 100%);
 }
 
 .playlist-content {
@@ -199,7 +199,7 @@ body {
     font-weight: 1000;
 
     margin-top: 10px;
-    font-family: "AvenirLTStd-Black";
+    
 }
 
 .playlist-description {
